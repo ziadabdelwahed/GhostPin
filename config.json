@@ -1,0 +1,9 @@
+{
+    "webhook_url": "",
+    "default_delay": 2,
+    "default_color": "black",
+    "auto_shorten": true,
+    "shortener_service": "tinyurl",
+    "encrypt_data": true,
+    "encryption_key": "auto_generate"
+}
